@@ -1,5 +1,9 @@
 OpenPose
 ====================================
+# 总结一下自己的方法：
+环境是Ubuntu，首先是我已经安装完毕必须得环境。并且平时一直使用的都是caffe，不想再从新配置。直接用以前的配置。
+进入[安装教程](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation_cmake.md),安装cmake GUI版本。
+安装完毕，打开CMAKE，安装教程的步骤，只是要注意，由于要下载COCO model，非常慢。请耐心等待。
 
 [![Build Status](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose.svg?branch=master)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose)
 
